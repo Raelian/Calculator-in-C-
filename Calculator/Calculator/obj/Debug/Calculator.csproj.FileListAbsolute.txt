@@ -1,0 +1,11 @@
+D:\C# projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\C# projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\C# projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\C# projects\Calculator\Calculator\obj\Debug\Calculator.pdb
